@@ -87,22 +87,6 @@ npm run build
 - **Skeleton loaders** instead of spinners for a more polished loading experience
 - **No external state management** — React hooks + localStorage cover all needs
 
-## Suggested Commit History
-
-```
-feat: set up project with TanStack Start and Tailwind v4
-feat: add problem data model and curated sheet definitions
-feat: implement useLocalStorage and useTheme hooks
-feat: build home page with search, filters, and problem cards
-feat: add progress dashboard with ring chart and category breakdown
-feat: create curated sheets page with progress bars
-feat: add profile page with theme toggle and reset
-feat: add PWA manifest and mobile meta tags
-style: define OKLCH design tokens for light and dark themes
-refactor: remove unused dependencies and clean up project structure
-docs: add README with setup instructions and project overview
-```
-
 ## License
 
 MIT
