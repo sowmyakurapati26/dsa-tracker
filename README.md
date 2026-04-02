@@ -1,4 +1,4 @@
-# DSA Tracker
+# DSA Tracker 
 
 A mobile-first web application for tracking Data Structures & Algorithms practice. Built to help developers stay consistent with their interview preparation by organizing problems, monitoring progress, and working through curated problem sheets.
 
