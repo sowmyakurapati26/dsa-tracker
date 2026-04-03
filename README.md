@@ -3,6 +3,11 @@
 A mobile-first web application for tracking Data Structures & Algorithms practice. Built to help developers stay consistent with their interview preparation by organizing problems, monitoring progress, and working through curated problem sheets.
 
 ![DSA Tracker](https://img.shields.io/badge/status-active-brightgreen) ![TypeScript](https://img.shields.io/badge/TypeScript-5.8-blue) ![TailwindCSS](https://img.shields.io/badge/Tailwind-4.2-06B6D4)
+## 🎥 Demo
+
+[▶️ Watch Demo](./demo.mp4)
+
+![Demo Preview](./demo.gif)
 
 ## Features
 
